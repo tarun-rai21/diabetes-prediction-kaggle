@@ -48,7 +48,7 @@ This project follows a modular machine learning structure similar to real-world 
 ---
 
 ## 🏗 Project Structure
-
+```bash
 diabetes-prediction-kaggle/
 │
 ├── notebooks/
@@ -68,7 +68,7 @@ diabetes-prediction-kaggle/
 ├── requirements.txt                  # Project dependencies
 ├── .gitignore                        # Files ignored by Git
 └── README.md                         # Project documentation
-
+```
 ---
 
 ## 🧠 Skills Demonstrated
@@ -87,4 +87,5 @@ diabetes-prediction-kaggle/
 - Pandas
 - Scikit-learn
 - XGBoost
+
 
